@@ -1,0 +1,2 @@
+# GoodByWorld.github.io
+myFirstWebsite
